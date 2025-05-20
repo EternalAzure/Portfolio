@@ -5,4 +5,4 @@
 |[Ravintolasovellus](https://ravintolasovellus.fly.dev/)|[Ravintolasovellus](https://github.com/EternalAzure/Ravintolasovellus)|
 |[WebGL pelejä](https://webgl-hosting.fly.dev/)|[WebGL-hosting](https://github.com/EternalAzure/WebGL-hosting)|
 |[Varastonhallintaohjelma](https://github.com/EternalAzure/ot-harjoitustyo/releases/tag/sqlite3)|[ot-harjoitustyo](https://github.com/EternalAzure/ot-harjoitustyo)|
-
+|[Cumulative air pollution](https://cassini-demo.fly.dev)|[cassini-demo](https://github.com/EternalAzure/cassini-demo)
